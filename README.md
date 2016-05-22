@@ -28,5 +28,5 @@
 
 - [Marlin. MarlinFirmware/Marlin.](https://github.com/MarlinFirmware/Marlin)
 
-*Made by: Chenyu Zhang, [Yifan He](http://malmal.applinzi.com "Maldini Yifan He"), Vince Cao & [Max Lee](https://github.com/maekks "Max Lee").*
+*Made by: Chenyu Zhang, [Yifan He](http://malmal.applinzi.com "Maldini Yifan He"), Vince Cao & [Max Lee](https://github.com/maekks "Max Lee").@2015*
 See the details in [GitHub](https://github.com/vincecao/3D_printer_soulmaker "GitHub")
