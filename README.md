@@ -1,3 +1,4 @@
+
 # Soul Maker
 
 ##[Video demo] (https://www.youtube.com/watch?v=zFHWncpgNw8 "Video demo")##
@@ -27,6 +28,12 @@
 - [Cep. 3D printed Filament Extruder based on LyMan Design.](http://www.thingiverse.com/thing:152380)
 
 - [Marlin. MarlinFirmware/Marlin.](https://github.com/MarlinFirmware/Marlin)
+
+- [K800经验谈](http://tieba.baidu.com/p/3326483067)
+
+- [Kossel 800开源3D打印机套件](http://www.dreamore.com/projects/14147.html)
+
+- [拿什么拯救你我的k800—Kossel800入坑手册第二弹 ](http://www.dfrobot.com.cn/community/forum.php?mod=viewthread&tid=13551)
 
 *Made by: Chenyu Zhang, [Yifan He](http://malmal.applinzi.com "Maldini Yifan He"), Vince Cao & [Max Lee](https://github.com/maekks "Max Lee").@2015*
 See the details in [GitHub](https://github.com/vincecao/3D_printer_soulmaker "GitHub")
